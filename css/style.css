@@ -1,0 +1,20 @@
+p {
+    color: blue;
+    text-align: center; 
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    padding: 5vw;
+}
+body {
+    background-color: floralwhite;
+
+}
+
+span {
+    color: darkslategray;
+}
+
+footer{
+    text-align: center; 
+    padding-bottom: 5vw;
+}
